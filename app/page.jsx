@@ -1,11 +1,5 @@
-import React from 'react';
-
-const Page = () => {
-    return (
-        <div>
-            Page
-        </div>
-    );
+export const Home = () => {
+  return (
+    <div>page</div>
+  )
 }
-
-export default Page;
